@@ -116,23 +116,4 @@
   * {
     @apply border-border outline-ring/50;
   }
-  body {
-    @apply bg-background text-foreground;
-    overflow: hidden !important;
-    height: 100vh !important;
-    width: 100vw !important;
-  }
-  html {
-    overflow: hidden !important;
-    height: 100vh !important;
-    width: 100vw !important;
-  }
-
-  /* Ensure proper mobile viewport */
-  @media (max-width: 640px) {
-    body,
-    html {
-      height: 100dvh !important;
-    }
-  }
 }
