@@ -309,7 +309,7 @@ NEXT_PUBLIC_APP_ICON="https://your-domain.com/icon.png"
 LICENSE
 MIT License
 
-Copyright (c) 2024 MoazamTech
+Copyright (c) 2025 MoazamTech
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
